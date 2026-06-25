@@ -69,7 +69,9 @@ I'm a Computer Science student passionate about building scalable backend applic
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/shreyansh-srivastava430/shreyansh-srivastava430/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shreyansh-srivastava430/shreyansh-srivastava430/main/dist/snake.svg" />
+</p>
 
 
 ## 📫 Connect With Me
