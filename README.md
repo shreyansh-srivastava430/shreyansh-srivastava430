@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Shreyansh Srivastava
 
-<!--
-**shreyansh-srivastava430/shreyansh-srivastava430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Developer | Java | Node.js | MySQL
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building scalable backend applications and solving Data Structures & Algorithms problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning **Java, DSA, System Design**
+- 💻 Building **Node.js + MySQL Backend Projects**
+- 🔐 Interested in Authentication, REST APIs & Databases
+- 🎯 Goal: Become a Software Development Engineer (SDE)
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 CRM Backend
+- 💬 Chat Application
+- ☕ Java DSA
+- 🌐 Portfolio Website
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shreyansh-srivastava-a63365235/
+- Email: srivastavshreyansh6@gmail.com
+
+⭐ Thanks for visiting my profile!
