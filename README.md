@@ -23,6 +23,12 @@ I'm a Computer Science student passionate about building scalable backend applic
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-srivastava430&layout=compact&theme=tokyonight"/>
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shreyansh-srivastava430&theme=tokyonight"/>
+</p>
+
 
 ### Languages
 - Java
