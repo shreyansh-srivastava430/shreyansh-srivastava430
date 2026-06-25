@@ -12,6 +12,10 @@ I'm a Computer Science student passionate about building scalable backend applic
 ---
 
 ## 🛠 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,express,mysql,git,github,vscode,postman,html,css" />
+</p>
+
 
 ### Languages
 - Java
