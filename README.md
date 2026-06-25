@@ -61,6 +61,13 @@ I'm a Computer Science student passionate about building scalable backend applic
 
 ---
 
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyansh-srivastava430&theme=tokyo-night&hide_border=true" />
+</p>
+
+
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/shreyansh-srivastava-a63365235/
