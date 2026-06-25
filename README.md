@@ -16,6 +16,13 @@ I'm a Computer Science student passionate about building scalable backend applic
 <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,mysql,git,github,vscode,postman,html,css" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyansh-srivastava430&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-srivastava430&layout=compact&theme=tokyonight"/>
+</p>
+
 
 ### Languages
 - Java
