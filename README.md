@@ -66,4 +66,8 @@ I'm a Computer Science student passionate about building scalable backend applic
 - LinkedIn: https://www.linkedin.com/in/shreyansh-srivastava-a63365235/
 - Email: srivastavshreyansh6@gmail.com
 
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=shreyansh-srivastava430&color=blue)
+
 ⭐ Thanks for visiting my profile!
