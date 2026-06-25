@@ -67,6 +67,10 @@ I'm a Computer Science student passionate about building scalable backend applic
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyansh-srivastava430&theme=tokyo-night&hide_border=true" />
 </p>
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/shreyansh-srivastava430/shreyansh-srivastava430/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 📫 Connect With Me
 
